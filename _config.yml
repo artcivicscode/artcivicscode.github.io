@@ -1,0 +1,29 @@
+# Site settings
+title: "art + civics + code"
+description: "A blog & events about the intersection of art, technology, & civic engagement."
+baseurl: ""
+url: ""
+twitter_username: artcivicscode
+github_username: artcivicscode
+google_analytics:
+
+collections:
+  people:
+    output: true
+    permalink: /people/:path/
+  cities:
+    output: true
+    permalink: /cities/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+  groups:
+    output: true
+    permalink: /groups/:path/
+  topics:
+    output: true
+    permalink: /topics/:path
+
+permalink: /posts/:title/
+markdown: kramdown
+exclude: [node_modules]

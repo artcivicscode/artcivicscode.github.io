@@ -1,0 +1,25 @@
+{
+  "name": "artcivicscode.github.io
+",
+  "description": "A blog & events about the intersection of art, technology, & civic engagement.",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/artcivicscode/artcivicscode.github.io
+.git"
+  },
+  "scripts": {
+    "bundle-js": "browserify assets/app.js -o assets/dist/bundle.js -t brfs",
+    "bundle": "npm run bundle-js",
+    "watch-js": "watchify assets/app.js -o assets/dist/app.js -t brfs",
+    "watch": "npm run watch-js",
+    "start": "jekyll serve -w"
+  },
+  "dependencies": {
+    "browserify": "^5.9.1",
+    "component-delegate": "^0.2.3",
+    "handlebars": "^2.0.0",
+    "watchify": "^1.0.1",
+    "xhr": "^1.16.1"
+  },
+  "devDependencies": {}
+}

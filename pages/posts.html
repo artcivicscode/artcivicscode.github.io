@@ -1,0 +1,17 @@
+---
+title: Posts
+layout: page
+permalink: /posts/
+---
+
+<div class="item-list posts">
+  {% for post in site.posts limit: 5 %}
+  <div class="item post" id="{{ post.slug }}">
+    <div class="item-date">{{ post.date | date: "%-d %B %Y" }}</div>
+    <h2 class="item-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="item-excerpt">
+      {{ post.excerpt | strip_html | truncate: 250 }}
+    </div>
+  </div>
+  {% endfor %}
+</div>

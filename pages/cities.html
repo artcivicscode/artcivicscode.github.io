@@ -1,0 +1,18 @@
+---
+title: Cities
+layout: page
+permalink: /cities/
+published: false
+---
+
+<div class="item-list cities">
+  {% for city in site.cities limit: 5 %}
+  <div class="item city" id="{{ city.slug }}">
+    <div class="item-date">{{ city.date | date: "%-d %B %Y" }}</div>
+    <h2 class="item-title"><a href="{{ city.url }}">{{ city.name }}</a></h2>
+    <div class="item-excerpt">
+      {{ city.excerpt | strip_html | truncate: 250 }}
+    </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,17 @@
+---
+title: Events
+layout: page
+permalink: /events/
+---
+
+<div class="item-list events">
+  {% for event in site.events %}
+  <div class="item event" id="{{ event.slug }}">
+    <div class="item-date">{{ event.date }}</div>
+    <h2 class="item-title"><a href="{{ event.url }}">{{ event.title }}</a></h2>
+    <div class="item-excerpt">
+      {{ event.description | strip_html | truncate: 250 }}
+    </div>
+  </div>
+  {% endfor %}
+</div>
