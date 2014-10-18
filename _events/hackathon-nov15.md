@@ -1,9 +1,9 @@
 ---
-title: "Art + Civics + Code Hackathon – Nov. 14"
-slug: hackathon-nov14
+title: "Art + Civics + Code Hackathon – Nov. 15"
+slug: hackathon-nov15
 type: hackathon
-date: "November 14, 2014"
-time: "10 a.m. to 6 p.m."
+date: "November 15, 2014"
+time: "9:30 a.m. to 5:30 p.m."
 layout: event
 ---
 
