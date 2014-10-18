@@ -1,4 +1,4 @@
-# artcivicscode.com
+# [artcivicscode.com](http://artcivicscode.com)
 
 Website for Art + Civics + Code.
 
