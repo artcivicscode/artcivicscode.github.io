@@ -22,7 +22,7 @@ The event is on November 15, 9:30 a.m. to 5:30 p.m. at the Seattle Sheraton.
   <br>
   <form action="//artcivicscode.us9.list-manage.com/subscribe/post?u=f4f4c5e474bceb014c45f5de3&amp;id=c13f4b4368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-         <input type="hidden" value="event-nov14" name="SOURCE" class="" id="mce-SOURCE">
+         <input type="hidden" value="event-nov15" name="SOURCE" class="" id="mce-SOURCE">
   <div class="mc-field-group">
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
           <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
@@ -33,5 +33,6 @@ The event is on November 15, 9:30 a.m. to 5:30 p.m. at the Seattle Sheraton.
     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;"><input type="text" name="b_f4f4c5e474bceb014c45f5de3_c13f4b4368" tabindex="-1" value=""></div>
       </div>
+      <p style="font-size:12px; font-style: italic;">We'll also send occasional updates about blog posts, related projects & future events. But never spam.</p>
   </form>
 </div>
