@@ -17,6 +17,20 @@ Code for Seattle and Independent Sector are partnering to host a hackathon as pa
 
 Independent Sector is a national nonprofit organization with a mission to advance the common good by leading, strengthening, and mobilizing the nonprofit community.  In Seattle this fall, they are hosting their annual Public Policy Action Institute (PPAI), where over 120 nonprofit leaders from across the country will gather to share best practices on how to make a greater impact in their communities.
 
+## Projects
+
+###Existing projects that you can join:
+
+- Seattle Icons
+  - Help create a set of icons all about Seattle! Design icons for neighborhoods, landmarks, and other important aspects of Seattle. You can sketch ideas, turn sketches into SVG images, or both!
+- Artwalk app
+  - Help create an open-source tool for exploring the locations of an artwalk.
+  
+
+## Pitch a project
+
+Interested in leading a project at the event? [Submit some basic information about the project](http://goo.gl/forms/BcxB8ufho7), and if it fits the scope of the event, we'll add it to the list!
+
 
 <div id="mc_embed_signup" class="newsletter">
   <h2>Sign up to be notified when registration is available:</h2>
