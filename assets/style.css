@@ -24,7 +24,9 @@ body {
   border-top: 1px solid #F399C1;
 }
 
-p {}
+p, ul {
+  font-family: 
+}
 
 *,
 *:before,
@@ -342,11 +344,6 @@ main h1.page-title a:hover {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
   margin-top: -2px;
   margin-bottom: 50px;
-}
-
-.post-content ul {
-  font-family: Lora, Georgia, serif;
-  line-height: 1.8;
 }
 
 
