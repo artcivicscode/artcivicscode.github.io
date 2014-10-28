@@ -13,10 +13,6 @@ Attend the Nov. 15 Art + Civics + Code Hackathon to work on projects that make 
 
 It takes more than just technological solutions to build community and address civic issues. This event is an experiment in supporting collaborative, cross-discipline projects that not only generate creative new ideas for the city of Seattle, but also inspire civic leaders from across the country to re-think how nonprofits, government, and volunteers can leverage technology to tackle community needs.
 
-Code for Seattle and Independent Sector are partnering to host a hackathon as part of this year's Public Policy Action Institute to educate nonprofit leaders on what can happen when technology and volunteerism meet. This hackathon will focus on creating teams of artists & technologists working on civics-focused projects.
-
-Independent Sector is a national nonprofit organization with a mission to advance the common good by leading, strengthening, and mobilizing the nonprofit community.  In Seattle this fall, they are hosting their annual Public Policy Action Institute (PPAI), where over 120 nonprofit leaders from across the country will gather to share best practices on how to make a greater impact in their communities.
-
 ## Projects
 
 ###Existing projects that you can join:
@@ -41,6 +37,11 @@ Have an idea that doesn't completely fit those guidelines but still has somethin
 
 
 <a href="http://goo.gl/forms/BcxB8ufho7" class="button">Submit your project</a>
+
+Code for Seattle and Independent Sector are partnering to host a hackathon as part of this year's Public Policy Action Institute to educate nonprofit leaders on what can happen when technology and volunteerism meet. This hackathon will focus on creating teams of artists & technologists working on civics-focused projects.
+
+Independent Sector is a national nonprofit organization with a mission to advance the common good by leading, strengthening, and mobilizing the nonprofit community.  In Seattle this fall, they are hosting their annual Public Policy Action Institute (PPAI), where over 120 nonprofit leaders from across the country will gather to share best practices on how to make a greater impact in their communities.
+
 
 ---
 
