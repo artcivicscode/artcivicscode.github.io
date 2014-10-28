@@ -29,7 +29,17 @@ Independent Sector is a national nonprofit organization with a mission to advanc
 
 ## Pitch a project
 
-Interested in leading a project at the event? [Submit some basic information about the project](http://goo.gl/forms/BcxB8ufho7), and if it fits the scope of the event, we'll add it to the list!
+Have a project that combines art, civic engagement, and technology? Cool! You should bring it to Art + Civics + Code and lead a team to work on the project. [Submit some basic information about the project](http://goo.gl/forms/BcxB8ufho7), and if it fits the scope of the event, we'll add it to the list!
+
+**Ideal projects include:** 
+
+- arts organizations or individual artists that need technological help
+- projects that help make public art easier to discover & share
+- beautiful/unexpected/inventive presentation of open data 
+
+Have an idea that doesn't completely fit those guidelines but still has something to do with art, civic engagement, & technology? Awesome. [Tell us about it](http://goo.gl/forms/BcxB8ufho7).
+
+#### [Submit your project](http://goo.gl/forms/BcxB8ufho7)
 
 
 <div id="mc_embed_signup" class="newsletter">
