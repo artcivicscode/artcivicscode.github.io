@@ -39,7 +39,13 @@ Have a project that combines art, civic engagement, and technology? Cool! You sh
 
 Have an idea that doesn't completely fit those guidelines but still has something to do with art, civic engagement, & technology? Awesome. [Tell us about it](http://goo.gl/forms/BcxB8ufho7).
 
-#### [Submit your project](http://goo.gl/forms/BcxB8ufho7)
+
+<a href="http://goo.gl/forms/BcxB8ufho7" class="button">Submit your project</a>
+
+---
+
+
+<br>
 
 
 <div id="mc_embed_signup" class="newsletter">
