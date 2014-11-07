@@ -11,6 +11,8 @@ layout: event
 
 Attend the Nov. 15 Art + Civics + Code Hackathon to work on projects that make public art more accessible, that create new ways for residents to explore Seattle, & that beautifully present open data.
 
+<p class="center-text bright"><a href="http://www.meetup.com/Code-for-Seattle/events/217407182/" class="button">Register for Art + Civics + Code</a></p>
+
 It takes more than just technological solutions to build community and address civic issues. This event is an experiment in supporting collaborative, cross-discipline projects that not only generate creative new ideas for the city of Seattle, but also inspire civic leaders from across the country to re-think how nonprofits, government, and volunteers can leverage technology to tackle community needs.
 
 ## Projects
@@ -48,23 +50,29 @@ Independent Sector is a national nonprofit organization with a mission to advanc
 
 <br>
 
+<p class="center-text bright"><a href="http://www.meetup.com/Code-for-Seattle/events/217407182/" class="button">Register for Art + Civics + Code</a></p>
 
-<div id="mc_embed_signup" class="newsletter">
-  <h2>Sign up to be notified when registration is available:</h2>
-  <br>
-  <form action="//artcivicscode.us9.list-manage.com/subscribe/post?u=f4f4c5e474bceb014c45f5de3&amp;id=c13f4b4368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-         <input type="hidden" value="event-nov15" name="SOURCE" class="" id="mce-SOURCE">
-  <div class="mc-field-group">
-          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-        </div>
-    <div id="mce-responses" class="clear">
-      <div class="response" id="mce-error-response" style="display:none"></div>
-      <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;"><input type="text" name="b_f4f4c5e474bceb014c45f5de3_c13f4b4368" tabindex="-1" value=""></div>
+<br>
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="bright center-text">
+<h2>Sign up to for the newsletter to get updates:</h2>
+<br>
+<form action="//artcivicscode.us9.list-manage.com/subscribe/post?u=f4f4c5e474bceb014c45f5de3&amp;id=c13f4b4368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+       <input type="hidden" value="event-nov15" name="SOURCE" class="" id="mce-SOURCE">
+<div class="mc-field-group">
+        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
       </div>
-      <p style="font-size:12px; font-style: italic;">We'll also send occasional updates about blog posts, related projects & future events. But never spam.</p>
-  </form>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_f4f4c5e474bceb014c45f5de3_c13f4b4368" tabindex="-1" value=""></div>
+    </div>
+    <p style="font-size:12px; font-style: italic;">We'll also send occasional updates about blog posts, related projects & future events. But never spam.</p>
+</form>
 </div>
+
+<!--End mc_embed_signup-->

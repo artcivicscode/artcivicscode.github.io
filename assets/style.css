@@ -165,23 +165,23 @@ a.button:hover {
   text-decoration: none;
 }
 
-.newsletter .icon,
-.newsletter button,
-.newsletter .button,
-.newsletter input[type="submit"] {
+.bright .icon,
+.bright button,
+.bright .button,
+.bright input[type="submit"] {
   background-color: #CDDF78;
   border-color: #CDDF78;
   height: 44px;
   line-height: 44px;
 }
 
-.newsletter .icon:hover,
-.newsletter button:hover,
-.newsletter button:focus,
-.newsletter .button:hover,
-.newsletter .button:focus,
-.newsletter input[type="submit"]:hover,
-.newsletter input[type="submit"]:focus {
+.bright .icon:hover,
+.bright button:hover,
+.bright button:focus,
+.bright .button:hover,
+.bright .button:focus,
+.bright input[type="submit"]:hover,
+.bright input[type="submit"]:focus {
   background-color: #B7D039;
   border: 1px solid #B7D039;
   color: #fff;
