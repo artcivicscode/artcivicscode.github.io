@@ -11,7 +11,7 @@ layout: event
 
 Attend the Nov. 15 Art + Civics + Code Hackathon to work on projects that make public art more accessible, that create new ways for residents to explore Seattle, & that beautifully present open data.
 
-<p class="center-text bright"><a href="http://www.meetup.com/Code-for-Seattle/events/217407182/" class="button">Register for Art + Civics + Code</a></p>
+<p class="bright"><a href="http://www.meetup.com/Code-for-Seattle/events/217407182/" class="button">Register for Art + Civics + Code</a></p>
 
 It takes more than just technological solutions to build community and address civic issues. This event is an experiment in supporting collaborative, cross-discipline projects that not only generate creative new ideas for the city of Seattle, but also inspire civic leaders from across the country to re-think how nonprofits, government, and volunteers can leverage technology to tackle community needs.
 
@@ -27,7 +27,8 @@ It takes more than just technological solutions to build community and address c
 
 ## Pitch a project
 
-Have a project that combines art, civic engagement, and technology? Cool! You should bring it to Art + Civics + Code and lead a team to work on the project. [Submit some basic information about the project](http://goo.gl/forms/BcxB8ufho7), and if it fits the scope of the event, we'll add it to the list!
+Have a project that combines art, civic engagement, and technology? Cool! You should bring it to Art + Civics + Code and lead a team to work on the project.
+ [Submit some basic information about the project](http://goo.gl/forms/BcxB8ufho7), and if it fits the scope of the event, we'll add it to the list!
 
 **Ideal projects include:** 
 
@@ -37,8 +38,7 @@ Have a project that combines art, civic engagement, and technology? Cool! You sh
 
 Have an idea that doesn't completely fit those guidelines but still has something to do with art, civic engagement, & technology? Awesome. [Tell us about it](http://goo.gl/forms/BcxB8ufho7).
 
-
-<a href="http://goo.gl/forms/BcxB8ufho7" class="button">Submit your project</a>
+<p class="bright"><a href="http://goo.gl/forms/BcxB8ufho7" class="button">Submit your project</a></p>
 
 Code for Seattle and Independent Sector are partnering to host a hackathon as part of this year's Public Policy Action Institute to educate nonprofit leaders on what can happen when technology and volunteerism meet. This hackathon will focus on creating teams of artists & technologists working on civics-focused projects.
 
